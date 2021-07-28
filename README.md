@@ -36,7 +36,7 @@ Currated list of Game Dev resources by the [UGS](https://discord.gg/m7YdX3nbRt) 
 
 - [Rick](https://www.youtube.com/watch?v=dQw4w9WgXcQ) - a placeholder.
 
-## Recomnended Content Creators
+## Recommended Content Creators
 
 * [Code monkey](https://www.youtube.com/c/CodeMonkeyUnity) - Awesome Unity indie developer.
 
