@@ -39,9 +39,12 @@ Currated list of Game Dev resources by the [UGS](https://discord.gg/m7YdX3nbRt) 
 ## Recommended Content Creators
 
 * [Code monkey](https://www.youtube.com/c/CodeMonkeyUnity) - Awesome Unity indie developer.
+* [Randy](https://www.youtube.com/channel/UCUmLRMERmJrmUtgnbFfknAg) - Indie Developer, Using [Telescope Engine](https://ryanfleury.net/telescope) (C)
 
 
 ## Other awesome lists
 
 * [awesome-unity3d](https://github.com/insthync/awesome-unity3d) - a massive collection of unity resources
 * [awesome-game-dev](https://github.com/mbrukman/awesome-game-dev) - a large collection of (maunly un)usefull game development resources including modeling, art, audio and some blogs, contains some gems.
+* [public-apis](https://github.com/public-apis/public-apis/blob/master/README.md) - large collection of free/public api's.
+* [freestuff.dev](https://freestuff.dev/) - very big list of free stuff for developers.
