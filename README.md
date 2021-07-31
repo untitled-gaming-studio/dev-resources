@@ -25,8 +25,10 @@ Join us at [UGS](https://discord.gg/m7YdX3nbRt) ![Online](https://img.shields.io
 ## Classic programming
 * ## CSharp
     - [C# 4 hour youtube course](https://www.youtube.com/watch?v=GhQdlIFylQ8) - by freeCodeCamp.
+    - [Interactive C# learning site](https://www.codecademy.com/learn/learn-c-sharp)
 * ## CPlusPlus
     - [C++ 4 hour youtube course](https://www.youtube.com/watch?v=vLnPwxZdW4Y) - by freeCodeCamp.
+    - [Interactive C++ learning site](https://www.codecademy.com/learn/learn-c-plus-plus)
 * ## Source control
     - [Intoduction to git branching](https://learngitbranching.js.org/) - and interactive game + tutorial on how to use git branching properly.
 
