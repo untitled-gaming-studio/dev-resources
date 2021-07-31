@@ -3,7 +3,9 @@
 # Game Development Resources ![Awesome](https://awesome.re/badge.svg)
 
 
-Currated list of Game Dev resources by the [UGS](https://discord.gg/m7YdX3nbRt) server ![Online](https://img.shields.io/discord/860716173631946772?style=plastic)
+Currated list of Game Dev resources by the UGS community!
+
+Join us at [UGS](https://discord.gg/m7YdX3nbRt) [Online](https://img.shields.io/discord/860716173631946772?style=plastic)
 
 </div>
 
