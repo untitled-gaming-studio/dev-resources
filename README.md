@@ -29,6 +29,8 @@ Join us at [UGS](https://discord.gg/m7YdX3nbRt) ![Online](https://img.shields.io
 * ## CPlusPlus
     - [C++ 4 hour youtube course](https://www.youtube.com/watch?v=vLnPwxZdW4Y) - by freeCodeCamp.
     - [Interactive C++ learning site](https://www.codecademy.com/learn/learn-c-plus-plus)
+    - [Introduction to C++](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) from MIT OpenCourseWare
+    - [Introduction to C Memory Management and C++ Object-Oriented Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/)
 * ## Source control
     - [Intoduction to git branching](https://learngitbranching.js.org/) - and interactive game + tutorial on how to use git branching properly.
 
